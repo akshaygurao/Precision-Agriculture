@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="149" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel1" min="-2" pref="388" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="farmersPHValueLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="farmersMoistureValueLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="farmersMoistureValueTextField" min="-2" pref="230" max="-2" attributes="0"/>
+                                  <Component id="farmersPHValueTextField" min="-2" pref="230" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="337" max="-2" attributes="0"/>
+                      <Component id="backJButton" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="140" max="32767" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="150" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="sendAnalysisToFarmerJButton" min="-2" pref="214" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="151" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="recommendedFertilizerQuantityLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="recommendedFertilizerNameLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="recommendedFertilizerQuantityTextField" min="-2" pref="233" max="-2" attributes="0"/>
+                              <Component id="recommendedFertilizerNameTextField" alignment="0" min="-2" pref="233" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="138" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="41" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="farmersPHValueLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="farmersPHValueTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="farmersMoistureValueLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="farmersMoistureValueTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="197" max="32767" attributes="0"/>
+              <Component id="backJButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="149" max="-2" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="243" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="recommendedFertilizerNameLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="recommendedFertilizerNameTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="recommendedFertilizerQuantityLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="recommendedFertilizerQuantityTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                  <Component id="sendAnalysisToFarmerJButton" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="207" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="farmersPHValueLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Selected Farmer&apos;s PH value:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="recommendedFertilizerNameLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Enter Recommended Fertilizer Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="recommendedFertilizerQuantityLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Enter Recommended Fertilizer Quantity:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="recommendedFertilizerNameTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="recommendedFertilizerQuantityTextField">
+    </Component>
+    <Component class="javax.swing.JButton" name="sendAnalysisToFarmerJButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Send To Farmer"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="farmersMoistureValueLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Selected Farmers Moisture value:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="farmersPHValueTextField">
+      <Properties>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="farmersMoistureValueTextField">
+      <Properties>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Farmer&apos;s Fertilzer Requirement Analysis"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="backJButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;&lt;BACK"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backJButtonActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

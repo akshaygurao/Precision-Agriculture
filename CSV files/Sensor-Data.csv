@@ -1,0 +1,91 @@
+Sensor ID,Crop Name,Date,Time,Temperature,Precipitation,Humidity,Moisture,Place,Crop Maturity Level,Crop Height in inches
+1,Maize,1/1/2017,12:00:00 PM,34,0%,20%,20%,Boston,Emergence,0
+1,Maize,2/1/2017,12:00:00 PM,35,10%,20%,20%,Boston,Emergence,0.5
+1,Maize,3/1/2017,12:00:00 PM,36,15%,20%,20%,Boston,Emergence,1
+1,Maize,4/1/2017,12:00:00 PM,37,20%,20%,20%,Boston,Tillering,2
+1,Maize,5/1/2017,12:00:00 PM,34,0%,20%,20%,Boston,Tillering,3
+1,Maize,6/1/2017,12:00:00 PM,35,10%,20%,20%,Boston,Tillering,4
+1,Maize,7/1/2017,12:00:00 PM,36,15%,20%,20%,Boston,Tillering,5
+1,Maize,8/1/2017,12:00:00 PM,37,20%,20%,20%,Boston,Tillering,6
+1,Maize,9/1/2017,12:00:00 PM,34,0%,20%,20%,Boston,Tillering,7
+1,Maize,10/1/2017,12:00:00 PM,35,10%,20%,20%,Boston,Tillering,8
+1,Maize,11/1/2017,12:00:00 PM,36,15%,20%,20%,Boston,Tillering,9
+1,Maize,12/1/2017,12:00:00 PM,37,20%,20%,20%,Boston,Tillering,10
+1,Maize,13-01-2017,12:00:00 PM,34,0%,20%,20%,Boston,Tillering,11
+1,Maize,14-01-2017,12:00:00 PM,35,10%,20%,20%,Boston,Tillering,12
+1,Maize,15-01-2017,12:00:00 PM,36,15%,20%,20%,Boston,Tillering,13
+1,Maize,16-01-2017,12:00:00 PM,37,20%,20%,20%,Boston,Tillering,14
+1,Maize,17-01-2017,12:00:00 PM,34,0%,20%,20%,Boston,Tillering,15
+1,Maize,18-01-2017,12:00:00 PM,35,10%,20%,20%,Boston,Tillering,16
+1,Maize,19-01-2017,12:00:00 PM,36,15%,20%,20%,Boston,Tillering,17
+1,Maize,20-01-2017,12:00:00 PM,37,20%,20%,20%,Boston,Tillering,18
+1,Maize,21-01-2017,12:00:00 PM,34,0%,20%,20%,Boston,Stem Elongation,20
+1,Maize,22-01-2017,12:00:00 PM,35,10%,20%,20%,Boston,Stem Elongation,25
+1,Maize,23-01-2017,12:00:00 PM,36,15%,20%,20%,Boston,Stem Elongation,30
+1,Maize,24-01-2017,12:00:00 PM,37,20%,20%,20%,Boston,Stem Elongation,35
+1,Maize,25-01-2017,12:00:00 PM,34,0%,20%,20%,Boston,Stem Elongation,40
+1,Maize,26-01-2017,12:00:00 PM,35,10%,20%,20%,Boston,Stem Elongation,45
+1,Maize,27-01-2017,12:00:00 PM,36,15%,20%,20%,Boston,Stem Elongation,50
+1,Maize,28-01-2017,12:00:00 PM,37,20%,20%,20%,Boston,Stem Elongation,55
+1,Maize,29-01-2017,12:00:00 PM,34,0%,20%,20%,Boston,Stem Elongation,60
+1,Maize,30-01-2017,12:00:00 PM,35,10%,20%,20%,Boston,Stem Elongation,65
+1,Maize,31-01-2017,12:00:00 PM,36,15%,20%,20%,Boston,Stem Elongation,70
+1,Maize,1/2/2017,12:00:00 PM,37,20%,30%,30%,Boston,Stem Elongation,75
+1,Maize,2/2/2017,12:00:00 PM,34,0%,30%,30%,Boston,Stem Elongation,80
+1,Maize,3/2/2017,12:00:00 PM,35,10%,30%,30%,Boston,Stem Elongation,85
+1,Maize,4/2/2017,12:00:00 PM,36,15%,30%,30%,Boston,Stem Elongation,90
+1,Maize,5/2/2017,12:00:00 PM,37,20%,30%,30%,Boston,Stem Elongation,95
+1,Maize,6/2/2017,12:00:00 PM,34,0%,30%,30%,Boston,Stem Elongation,100
+1,Maize,7/2/2017,12:00:00 PM,35,10%,30%,30%,Boston,Stem Elongation,105
+1,Maize,8/2/2017,12:00:00 PM,36,15%,30%,30%,Boston,Stem Elongation,110
+1,Maize,9/2/2017,12:00:00 PM,37,20%,30%,30%,Boston,Stem Elongation,115
+1,Maize,10/2/2017,12:00:00 PM,34,0%,30%,30%,Boston,Stem Elongation,120
+1,Maize,11/2/2017,12:00:00 PM,35,10%,30%,30%,Boston,Stem Elongation,125
+1,Maize,12/2/2017,12:00:00 PM,36,15%,30%,30%,Boston,Stem Elongation,130
+1,Maize,13-02-2017,12:00:00 PM,37,20%,30%,30%,Boston,Stem Elongation,135
+1,Maize,14-02-2017,12:00:00 PM,34,0%,30%,30%,Boston,Stem Elongation,140
+1,Maize,15-02-2017,12:00:00 PM,35,10%,30%,30%,Boston,Stem Elongation,145
+1,Maize,16-02-2017,12:00:00 PM,36,15%,30%,30%,Boston,Stem Elongation,150
+1,Maize,17-02-2017,12:00:00 PM,37,20%,30%,30%,Boston,Stem Elongation,155
+1,Maize,18-02-2017,12:00:00 PM,34,0%,30%,30%,Boston,Stem Elongation,160
+1,Maize,19-02-2017,12:00:00 PM,35,10%,30%,30%,Boston,Stem Elongation,165
+1,Maize,20-02-2017,12:00:00 PM,36,15%,30%,30%,Boston,Stem Elongation,170
+1,Maize,21-02-2017,12:00:00 PM,37,20%,30%,30%,Boston,Stem Elongation,175
+1,Maize,22-02-2017,12:00:00 PM,34,0%,30%,30%,Boston,Stem Elongation,180
+1,Maize,23-02-2017,12:00:00 PM,35,10%,30%,30%,Boston,Stem Elongation,185
+1,Maize,24-02-2017,12:00:00 PM,36,15%,30%,30%,Boston,Flowering,185
+1,Maize,25-02-2017,12:00:00 PM,37,20%,30%,30%,Boston,Flowering,185
+1,Maize,26-02-2017,12:00:00 PM,34,0%,30%,30%,Boston,Flowering,185
+1,Maize,27-02-2017,12:00:00 PM,35,10%,30%,30%,Boston,Flowering,185
+1,Maize,28-02-2017,12:00:00 PM,36,15%,30%,30%,Boston,Flowering,185
+1,Maize,1/3/2017,12:00:00 PM,37,20%,40%,40%,Boston,Flowering,185
+1,Maize,2/3/2017,12:00:00 PM,34,0%,40%,40%,Boston,Flowering,185
+1,Maize,3/3/2017,12:00:00 PM,35,10%,40%,40%,Boston,Flowering,185
+1,Maize,4/3/2017,12:00:00 PM,36,15%,40%,40%,Boston,Flowering,185
+1,Maize,5/3/2017,12:00:00 PM,37,20%,40%,40%,Boston,Flowering,185
+1,Maize,6/3/2017,12:00:00 PM,34,0%,40%,40%,Boston,Flowering,185
+1,Maize,7/3/2017,12:00:00 PM,35,10%,40%,40%,Boston,Flowering,185
+1,Maize,8/3/2017,12:00:00 PM,36,15%,40%,40%,Boston,Flowering,185
+1,Maize,9/3/2017,12:00:00 PM,37,20%,40%,40%,Boston,Flowering,185
+1,Maize,10/3/2017,12:00:00 PM,34,0%,40%,40%,Boston,Flowering,185
+1,Maize,11/3/2017,12:00:00 PM,35,10%,40%,40%,Boston,Flowering,185
+1,Maize,12/3/2017,12:00:00 PM,36,15%,40%,40%,Boston,Flowering,185
+1,Maize,13-03-2017,12:00:00 PM,37,20%,40%,40%,Boston,Ripening,185
+1,Maize,14-03-2017,12:00:00 PM,34,0%,40%,40%,Boston,Ripening,185
+1,Maize,15-03-2017,12:00:00 PM,35,10%,40%,40%,Boston,Ripening,185
+1,Maize,16-03-2017,12:00:00 PM,36,15%,40%,40%,Boston,Ripening,185
+1,Maize,17-03-2017,12:00:00 PM,37,20%,40%,40%,Boston,Ripening,185
+1,Maize,18-03-2017,12:00:00 PM,34,0%,40%,40%,Boston,Ripening,185
+1,Maize,19-03-2017,12:00:00 PM,35,10%,40%,40%,Boston,Ripening,185
+1,Maize,20-03-2017,12:00:00 PM,36,15%,40%,40%,Boston,Ripening,185
+1,Maize,21-03-2017,12:00:00 PM,37,20%,40%,40%,Boston,Ripening,185
+1,Maize,22-03-2017,12:00:00 PM,34,0%,40%,40%,Boston,Ripening,185
+1,Maize,23-03-2017,12:00:00 PM,35,10%,40%,40%,Boston,Ripening,185
+1,Maize,24-03-2017,12:00:00 PM,36,15%,40%,40%,Boston,Ripening,185
+1,Maize,25-03-2017,12:00:00 PM,37,20%,40%,40%,Boston,Ripening,185
+1,Maize,26-03-2017,12:00:00 PM,34,0%,40%,40%,Boston,Ripening,185
+1,Maize,27-03-2017,12:00:00 PM,35,10%,40%,40%,Boston,Ripening,185
+1,Maize,28-03-2017,12:00:00 PM,36,15%,40%,40%,Boston,Ripening,185
+1,Maize,29-03-2017,12:00:00 PM,37,20%,40%,40%,Boston,Ripening,185
+1,Maize,30-03-2017,12:00:00 PM,34,0%,40%,40%,Boston,Ripening,185
+1,Maize,31-03-2017,12:00:00 PM,35,10%,40%,40%,Boston,Ripening,185
